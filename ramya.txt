@@ -1,0 +1,62 @@
+<html>
+<head>
+<title>mca</title>
+</head>
+<body>
+web technologies
+</body>
+</html>
+
+<html>
+<head>
+<title>student name</title>
+</head>
+<body>
+<h1>manasa</h1>
+<h2>manasa</h2>
+<h3>manasa</h3>
+<h4>manasa</h4>
+<h5>manasa</h5>
+<h6>manasa</h6>
+</body>
+</html>
+
+<html>
+<head>
+<title>student name</title>
+</head>
+<body>
+<a tilthref="student.html">about us</a>
+</body>
+</html>
+
+<html>
+<head>
+<title>paragraph</title>
+</head>
+<body>
+<p>ramya</p>
+</body>
+</html>
+
+<html>
+<head>
+<title>student name</title>
+</head>
+<body>
+<Em>manasa</Em>
+<B>manasa</B>
+<I>manasa</I>
+<U>manasa</U>
+</body>
+</html>
+
+<html>
+<head>
+<title>student name</title>
+</head>
+<img src="https://www.google.com/imgres?q=annamacharya%20university&imgurl=https%3A%2F%2Fwww.orchidfoundation.info%2Fsites%2Fdefault%2Ffiles%2F2021-03%2FAnnamacharya%2520Institute%2520of%2520Technology%2520and%2520Sciences%2520Tirupati.jpg&imgrefurl=https%3A%2F%2Fwww.orchidfoundation.info%2Fcollege%2Fannamacharya-institute-of-technology-and-sciences-aitsbebtech&docid=8muDYXEaJT0kLM&tbnid=r0ySceV114sOwM&vet=12ahUKEwjmpd3ol9eOAxVEd2wGHZZaCiUQM3oECBQQAA..i&w=1280&h=720&hcb=2&ved=2ahUKEwjmpd3ol9eOAxVEd2wGHZZaCiUQM3oECBQQAA">
+</html>
+
+
+
